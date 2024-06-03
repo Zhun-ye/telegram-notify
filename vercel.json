@@ -1,0 +1,11 @@
+{
+  "rewrites": [
+    {
+      "source": "/bot:token/sendMessage",
+      "destination": "/api"
+    }
+  ],
+  "github": {
+    "silent": true
+  }
+}
